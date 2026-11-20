@@ -1,0 +1,141 @@
+id,descripcion,categoria,proveedor,precio,stock,estado,costoUnitario,descuentoPromocional
+P001,Articulo 1,Lacteos,Proveedor Sur,159.0,16,ACTIVO,95.4,0
+P002,Articulo 2,Bebidas,Distribuidora Norte,168.0,27,ACTIVO,80.6,20
+P003,Articulo 3,Panaderia,Mayorista Este,177.0,38,ACTIVO,106.2,0
+P004,Articulo 4,Limpieza,Cooperativa Oeste,186.0,49,ACTIVO,78.1,30
+P005,Articulo 5,Frutas y Verduras,Proveedor Sur,195.0,60,SUSPENDIDO,93.6,20
+P006,Articulo 6,Lacteos,Distribuidora Norte,204.0,71,ACTIVO,122.4,0
+P007,Articulo 7,Bebidas,Mayorista Este,200.0,10,CANCELADO,100.0,0
+P008,Articulo 8,Panaderia,Cooperativa Oeste,222.0,93,ACTIVO,93.2,30
+P009,Articulo 9,Limpieza,Proveedor Sur,200.0,10,ACTIVO,100.0,15
+P010,Articulo 10,Frutas y Verduras,Distribuidora Norte,240.0,115,SUSPENDIDO,115.2,20
+P011,Articulo 11,Lacteos,Mayorista Este,249.0,126,ACTIVO,119.5,20
+P012,Articulo 12,Bebidas,Cooperativa Oeste,258.0,137,ACTIVO,154.8,0
+P013,Articulo 13,Panaderia,Proveedor Sur,100.0,10,ACTIVO,120.0,0
+P014,Articulo 14,Limpieza,Distribuidora Norte,100.0,15,ACTIVO,85.0,30
+P015,Articulo 15,Frutas y Verduras,Mayorista Este,285.0,20,SUSPENDIDO,153.9,10
+P016,Articulo 16,Lacteos,Cooperativa Oeste,294.0,31,ACTIVO,158.8,10
+P017,Articulo 17,Bebidas,Proveedor Sur,200.0,10,CANCELADO,100.0,20
+P018,Articulo 18,Panaderia,Distribuidora Norte,312.0,53,ACTIVO,149.8,20
+P019,Articulo 19,Limpieza,Mayorista Este,200.0,10,ACTIVO,100.0,15
+P020,Articulo 20,Frutas y Verduras,Cooperativa Oeste,330.0,75,SUSPENDIDO,178.2,10
+P021,Articulo 21,Lacteos,Proveedor Sur,339.0,86,ACTIVO,183.1,10
+P022,Articulo 22,Bebidas,Distribuidora Norte,348.0,97,ACTIVO,208.8,0
+P023,Articulo 23,Panaderia,Mayorista Este,357.0,108,ACTIVO,149.9,30
+P024,Articulo 24,Limpieza,Cooperativa Oeste,100.0,15,ACTIVO,85.0,30
+P025,Articulo 25,Frutas y Verduras,Proveedor Sur,375.0,130,SUSPENDIDO,225.0,0
+P026,Articulo 26,Lacteos,Distribuidora Norte,384.0,141,ACTIVO,161.3,30
+P027,Articulo 27,Bebidas,Mayorista Este,200.0,10,CANCELADO,100.0,0
+P028,Articulo 28,Panaderia,Cooperativa Oeste,402.0,13,ACTIVO,241.2,0
+P029,Articulo 29,Limpieza,Proveedor Sur,200.0,10,ACTIVO,100.0,15
+P030,Articulo 30,Frutas y Verduras,Distribuidora Norte,420.0,35,SUSPENDIDO,201.6,20
+P031,Articulo 31,Lacteos,Mayorista Este,429.0,46,ACTIVO,180.2,30
+P032,Articulo 32,Bebidas,Cooperativa Oeste,438.0,57,ACTIVO,262.8,0
+P033,Articulo 33,Panaderia,Proveedor Sur,100.0,10,ACTIVO,120.0,0
+P034,Articulo 34,Limpieza,Distribuidora Norte,100.0,15,ACTIVO,85.0,30
+P035,Articulo 35,Frutas y Verduras,Mayorista Este,465.0,90,SUSPENDIDO,279.0,0
+P036,Articulo 36,Lacteos,Cooperativa Oeste,474.0,101,ACTIVO,284.4,0
+P037,Articulo 37,Bebidas,Proveedor Sur,200.0,10,CANCELADO,100.0,10
+P038,Articulo 38,Panaderia,Distribuidora Norte,492.0,123,ACTIVO,265.7,10
+P039,Articulo 39,Limpieza,Mayorista Este,151.0,134,ACTIVO,90.6,0
+P040,Articulo 40,Frutas y Verduras,Cooperativa Oeste,160.0,145,SUSPENDIDO,76.8,20
+P041,Articulo 41,Lacteos,Proveedor Sur,169.0,6,ACTIVO,71.0,30
+P042,Articulo 42,Bebidas,Distribuidora Norte,178.0,17,ACTIVO,74.8,30
+P043,Articulo 43,Panaderia,Mayorista Este,187.0,28,ACTIVO,89.8,20
+P044,Articulo 44,Limpieza,Cooperativa Oeste,100.0,15,ACTIVO,85.0,30
+P045,Articulo 45,Frutas y Verduras,Proveedor Sur,205.0,50,SUSPENDIDO,86.1,30
+P046,Articulo 46,Lacteos,Distribuidora Norte,214.0,61,ACTIVO,128.4,0
+P047,Articulo 47,Bebidas,Mayorista Este,200.0,10,CANCELADO,100.0,20
+P048,Articulo 48,Panaderia,Cooperativa Oeste,232.0,83,ACTIVO,111.4,20
+P049,Articulo 49,Limpieza,Proveedor Sur,200.0,10,ACTIVO,100.0,15
+P050,Articulo 50,Frutas y Verduras,Distribuidora Norte,250.0,105,SUSPENDIDO,105.0,30
+P051,Articulo 51,Lacteos,Mayorista Este,259.0,116,ACTIVO,139.9,10
+P052,Articulo 52,Bebidas,Cooperativa Oeste,268.0,127,ACTIVO,128.6,20
+P053,Articulo 53,Panaderia,Proveedor Sur,100.0,10,ACTIVO,120.0,0
+P054,Articulo 54,Limpieza,Distribuidora Norte,100.0,15,ACTIVO,85.0,30
+P055,Articulo 55,Frutas y Verduras,Mayorista Este,295.0,10,SUSPENDIDO,177.0,0
+P056,Articulo 56,Lacteos,Cooperativa Oeste,304.0,21,ACTIVO,127.7,30
+P057,Articulo 57,Bebidas,Proveedor Sur,200.0,10,CANCELADO,100.0,30
+P058,Articulo 58,Panaderia,Distribuidora Norte,322.0,43,ACTIVO,135.2,30
+P059,Articulo 59,Limpieza,Mayorista Este,331.0,54,ACTIVO,139.0,30
+P060,Articulo 60,Frutas y Verduras,Cooperativa Oeste,340.0,65,SUSPENDIDO,163.2,20
+P061,Articulo 61,Lacteos,Proveedor Sur,349.0,76,ACTIVO,209.4,0
+P062,Articulo 62,Bebidas,Distribuidora Norte,358.0,87,ACTIVO,193.3,10
+P063,Articulo 63,Panaderia,Mayorista Este,367.0,98,ACTIVO,220.2,0
+P064,Articulo 64,Limpieza,Cooperativa Oeste,100.0,15,ACTIVO,85.0,30
+P065,Articulo 65,Frutas y Verduras,Proveedor Sur,385.0,120,SUSPENDIDO,161.7,30
+P066,Articulo 66,Lacteos,Distribuidora Norte,394.0,131,ACTIVO,189.1,20
+P067,Articulo 67,Bebidas,Mayorista Este,200.0,10,CANCELADO,100.0,10
+P068,Articulo 68,Panaderia,Cooperativa Oeste,412.0,153,ACTIVO,197.8,20
+P069,Articulo 69,Limpieza,Proveedor Sur,200.0,10,ACTIVO,100.0,15
+P070,Articulo 70,Frutas y Verduras,Distribuidora Norte,430.0,25,SUSPENDIDO,206.4,20
+P071,Articulo 71,Lacteos,Mayorista Este,439.0,36,ACTIVO,184.4,30
+P072,Articulo 72,Bebidas,Cooperativa Oeste,448.0,47,ACTIVO,268.8,0
+P073,Articulo 73,Panaderia,Proveedor Sur,100.0,10,ACTIVO,120.0,0
+P074,Articulo 74,Limpieza,Distribuidora Norte,100.0,15,ACTIVO,85.0,30
+P075,Articulo 75,Frutas y Verduras,Mayorista Este,475.0,80,SUSPENDIDO,199.5,30
+P076,Articulo 76,Lacteos,Cooperativa Oeste,484.0,91,ACTIVO,203.3,30
+P077,Articulo 77,Bebidas,Proveedor Sur,200.0,10,CANCELADO,100.0,20
+P078,Articulo 78,Panaderia,Distribuidora Norte,152.0,113,ACTIVO,91.2,0
+P079,Articulo 79,Limpieza,Mayorista Este,161.0,124,ACTIVO,86.9,10
+P080,Articulo 80,Frutas y Verduras,Cooperativa Oeste,170.0,135,SUSPENDIDO,102.0,0
+P081,Articulo 81,Lacteos,Proveedor Sur,179.0,146,ACTIVO,85.9,20
+P082,Articulo 82,Bebidas,Distribuidora Norte,188.0,7,ACTIVO,112.8,0
+P083,Articulo 83,Panaderia,Mayorista Este,197.0,18,ACTIVO,94.6,20
+P084,Articulo 84,Limpieza,Cooperativa Oeste,100.0,15,ACTIVO,85.0,30
+P085,Articulo 85,Frutas y Verduras,Proveedor Sur,215.0,40,SUSPENDIDO,116.1,10
+P086,Articulo 86,Lacteos,Distribuidora Norte,224.0,51,ACTIVO,94.1,30
+P087,Articulo 87,Bebidas,Mayorista Este,200.0,10,CANCELADO,100.0,0
+P088,Articulo 88,Panaderia,Cooperativa Oeste,242.0,73,ACTIVO,116.2,20
+P089,Articulo 89,Limpieza,Proveedor Sur,200.0,10,ACTIVO,100.0,15
+P090,Articulo 90,Frutas y Verduras,Distribuidora Norte,260.0,95,SUSPENDIDO,109.2,30
+P091,Articulo 91,Lacteos,Mayorista Este,269.0,106,ACTIVO,145.3,10
+P092,Articulo 92,Bebidas,Cooperativa Oeste,278.0,117,ACTIVO,116.8,30
+P093,Articulo 93,Panaderia,Proveedor Sur,287.0,128,ACTIVO,155.0,10
+P094,Articulo 94,Limpieza,Distribuidora Norte,100.0,15,ACTIVO,85.0,30
+P095,Articulo 95,Frutas y Verduras,Mayorista Este,305.0,150,SUSPENDIDO,164.7,10
+P096,Articulo 96,Lacteos,Cooperativa Oeste,314.0,11,ACTIVO,131.9,30
+P097,Articulo 97,Bebidas,Proveedor Sur,200.0,10,CANCELADO,100.0,30
+P098,Articulo 98,Panaderia,Distribuidora Norte,332.0,33,ACTIVO,139.4,30
+P099,Articulo 99,Limpieza,Mayorista Este,150.0,10,EN_REVISION,80.0,0
+P100,Articulo 100,Frutas y Verduras,Cooperativa Oeste,350.0,55,SUSPENDIDO,210.0,0
+P101,Articulo 101,Lacteos,Proveedor Sur,359.0,66,ACTIVO,215.4,0
+P102,Articulo 102,Bebidas,Distribuidora Norte,368.0,77,ACTIVO,198.7,10
+P103,Articulo 103,Panaderia,Mayorista Este,377.0,88,ACTIVO,158.3,30
+P104,Articulo 104,Limpieza,Cooperativa Oeste,100.0,15,ACTIVO,85.0,30
+P105,Articulo 105,Frutas y Verduras,Proveedor Sur,395.0,110,SUSPENDIDO,213.3,10
+P106,Articulo 106,Lacteos,Distribuidora Norte,404.0,121,ACTIVO,242.4,0
+P107,Articulo 107,Bebidas,Mayorista Este,200.0,10,CANCELADO,100.0,20
+P108,Articulo 108,Panaderia,Cooperativa Oeste,422.0,143,ACTIVO,202.6,20
+P109,Articulo 109,Limpieza,Proveedor Sur,431.0,154,ACTIVO,206.9,20
+P110,Articulo 110,Frutas y Verduras,Distribuidora Norte,440.0,15,SUSPENDIDO,184.8,30
+P111,Articulo 111,Lacteos,Mayorista Este,449.0,26,ACTIVO,188.6,30
+P112,Articulo 112,Bebidas,Cooperativa Oeste,458.0,37,ACTIVO,274.8,0
+P113,Articulo 113,Panaderia,Proveedor Sur,467.0,48,ACTIVO,280.2,0
+P114,Articulo 114,Limpieza,Distribuidora Norte,476.0,59,ACTIVO,285.6,0
+P115,Articulo 115,Frutas y Verduras,Mayorista Este,485.0,70,SUSPENDIDO,232.8,20
+P116,Articulo 116,Lacteos,Cooperativa Oeste,494.0,81,ACTIVO,296.4,0
+P117,Articulo 117,Bebidas,Proveedor Sur,200.0,10,CANCELADO,100.0,0
+P118,Articulo 118,Panaderia,Distribuidora Norte,162.0,103,ACTIVO,68.0,30
+P119,Articulo 119,Limpieza,Mayorista Este,150.0,10,EN_REVISION,80.0,0
+P120,Articulo 120,Frutas y Verduras,Cooperativa Oeste,180.0,125,SUSPENDIDO,108.0,0
+P121,Articulo 121,Lacteos,Proveedor Sur,189.0,136,ACTIVO,79.4,30
+P122,Articulo 122,Bebidas,Distribuidora Norte,198.0,147,ACTIVO,118.8,0
+P123,Articulo 123,Panaderia,Mayorista Este,207.0,8,ACTIVO,86.9,30
+P124,Articulo 124,Limpieza,Cooperativa Oeste,216.0,19,ACTIVO,129.6,0
+P125,Articulo 125,Frutas y Verduras,Proveedor Sur,225.0,30,SUSPENDIDO,108.0,20
+P126,Articulo 126,Lacteos,Distribuidora Norte,234.0,41,ACTIVO,112.3,20
+P127,Articulo 127,Bebidas,Mayorista Este,200.0,10,CANCELADO,100.0,30
+P128,Articulo 128,Panaderia,Cooperativa Oeste,252.0,63,ACTIVO,151.2,0
+P129,Articulo 129,Limpieza,Proveedor Sur,261.0,74,ACTIVO,125.3,20
+P130,Articulo 130,Frutas y Verduras,Distribuidora Norte,270.0,85,SUSPENDIDO,113.4,30
+P131,Articulo 131,Lacteos,Mayorista Este,279.0,96,ACTIVO,133.9,20
+P132,Articulo 132,Bebidas,Cooperativa Oeste,288.0,107,ACTIVO,172.8,0
+P133,Articulo 133,Panaderia,Proveedor Sur,297.0,118,ACTIVO,160.4,10
+P134,Articulo 134,Limpieza,Distribuidora Norte,306.0,129,ACTIVO,128.5,30
+P135,Articulo 135,Frutas y Verduras,Mayorista Este,315.0,140,SUSPENDIDO,189.0,0
+P136,Articulo 136,Lacteos,Cooperativa Oeste,324.0,151,ACTIVO,175.0,10
+P137,Articulo 137,Bebidas,Proveedor Sur,200.0,10,CANCELADO,100.0,20
+P138,Articulo 138,Panaderia,Distribuidora Norte,342.0,23,ACTIVO,184.7,10
+P139,Articulo 139,Limpieza,Mayorista Este,351.0,34,ACTIVO,210.6,0
+P140,Articulo 140,Frutas y Verduras,Cooperativa Oeste,360.0,45,SUSPENDIDO,216.0,0

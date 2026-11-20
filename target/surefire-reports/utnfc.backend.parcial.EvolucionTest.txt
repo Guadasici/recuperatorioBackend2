@@ -1,0 +1,49 @@
+-------------------------------------------------------------------------------
+Test set: utnfc.backend.parcial.EvolucionTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 3, Skipped: 0, Time elapsed: 0.140 s <<< FAILURE! -- in utnfc.backend.parcial.EvolucionTest
+utnfc.backend.parcial.EvolucionTest.invariantesDeDescuentoYVentaSinPerdida -- Time elapsed: 0.083 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: Unexpected exception thrown: java.lang.IllegalArgumentException: columnas incorrectas
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:152)
+	at org.junit.jupiter.api.AssertDoesNotThrow.createAssertionFailedError(AssertDoesNotThrow.java:84)
+	at org.junit.jupiter.api.AssertDoesNotThrow.assertDoesNotThrow(AssertDoesNotThrow.java:75)
+	at org.junit.jupiter.api.AssertDoesNotThrow.assertDoesNotThrow(AssertDoesNotThrow.java:58)
+	at org.junit.jupiter.api.Assertions.assertDoesNotThrow(Assertions.java:3259)
+	at utnfc.backend.parcial.EvolucionTest.invariantesDeDescuentoYVentaSinPerdida(EvolucionTest.java:67)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+Caused by: java.lang.IllegalArgumentException: columnas incorrectas
+	at utnfc.backend.parcial.Articulo.desdeCampos(Articulo.java:33)
+	at utnfc.backend.parcial.EvolucionTest.lambda$invariantesDeDescuentoYVentaSinPerdida$0(EvolucionTest.java:67)
+	at org.junit.jupiter.api.AssertDoesNotThrow.assertDoesNotThrow(AssertDoesNotThrow.java:71)
+	... 6 more
+
+utnfc.backend.parcial.EvolucionTest.precedenciaDescarteYClasificacion -- Time elapsed: 0.025 s <<< ERROR!
+java.lang.IllegalArgumentException: encabezado incorrecto
+	at utnfc.backend.parcial.ParserArticulos.leer(ParserArticulos.java:22)
+	at utnfc.backend.parcial.EvolucionTest.leerConCabecera(EvolucionTest.java:21)
+	at utnfc.backend.parcial.EvolucionTest.leer(EvolucionTest.java:26)
+	at utnfc.backend.parcial.EvolucionTest.precedenciaDescarteYClasificacion(EvolucionTest.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+utnfc.backend.parcial.EvolucionTest.anchoDebeCoincidirConCabecera -- Time elapsed: 0.010 s <<< ERROR!
+java.lang.IllegalArgumentException: encabezado incorrecto
+	at utnfc.backend.parcial.ParserArticulos.leer(ParserArticulos.java:22)
+	at utnfc.backend.parcial.EvolucionTest.leerConCabecera(EvolucionTest.java:21)
+	at utnfc.backend.parcial.EvolucionTest.leer(EvolucionTest.java:26)
+	at utnfc.backend.parcial.EvolucionTest.anchoDebeCoincidirConCabecera(EvolucionTest.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+utnfc.backend.parcial.EvolucionTest.calculoImporteNormalYPromocional -- Time elapsed: 0.008 s <<< ERROR!
+java.lang.IllegalArgumentException: columnas incorrectas
+	at utnfc.backend.parcial.Articulo.desdeCampos(Articulo.java:33)
+	at utnfc.backend.parcial.EvolucionTest.calculoImporteNormalYPromocional(EvolucionTest.java:49)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

@@ -1,0 +1,61 @@
+id,descripcion,categoria,proveedor,precio,stock,estado,costoUnitario
+A001,Leche entera,Lacteos,Proveedor Sur,125,7,ACTIVO,75
+A002,Leche descremada,Bebidas,Distribuidora Norte,150,14,ACTIVO,90
+A003,Yogur natural,Panaderia,Mayorista Este,175,21,ACTIVO,105
+A004,Yogur frutal,Limpieza,Cooperativa Oeste,200,5,ACTIVO,120
+A005,Manteca,Frutas y Verduras,Proveedor Sur,225,12,SUSPENDIDO,135
+A006,Queso cremoso,Lacteos,Distribuidora Norte,250,19,ACTIVO,150
+A007,Agua mineral,Bebidas,Mayorista Este,275,3,ACTIVO,165
+A008,Agua saborizada,Panaderia,Cooperativa Oeste,100,10,ACTIVO,60
+A009,Gaseosa cola,Limpieza,Proveedor Sur,125,17,ACTIVO,75
+A010,Gaseosa naranja,Frutas y Verduras,Distribuidora Norte,150,1,SUSPENDIDO,90
+A011,Jugo de manzana,Lacteos,Mayorista Este,175,8,ACTIVO,105
+A012,Jugo de uva,Bebidas,Cooperativa Oeste,200,15,ACTIVO,120
+A013,Pan blanco,Panaderia,Proveedor Sur,225,22,ACTIVO,135
+A014,Pan integral,Limpieza,Distribuidora Norte,250,6,ACTIVO,150
+A015,Facturas,Frutas y Verduras,Mayorista Este,275,13,SUSPENDIDO,165
+A016,Medialunas,Lacteos,Cooperativa Oeste,100,20,ACTIVO,60
+A017,Galletitas dulces,Bebidas,Proveedor Sur,125,4,ACTIVO,75
+A018,Galletitas saladas,Panaderia,Distribuidora Norte,150,11,ACTIVO,90
+A019,Detergente,Limpieza,Mayorista Este,175,18,ACTIVO,105
+A020,Lavandina,Frutas y Verduras,Cooperativa Oeste,200,2,SUSPENDIDO,120
+A021,Jabon liquido,Lacteos,Proveedor Sur,225,9,ACTIVO,135
+A022,Papel higienico,Bebidas,Distribuidora Norte,250,16,ACTIVO,150
+A023,Esponjas,Panaderia,Mayorista Este,275,0,ACTIVO,165
+A024,Limpiador vidrios,Limpieza,Cooperativa Oeste,100,7,ACTIVO,60
+A025,Manzanas,Frutas y Verduras,Proveedor Sur,125,14,SUSPENDIDO,75
+A026,Bananas,Lacteos,Distribuidora Norte,150,21,ACTIVO,90
+A027,Naranjas,Bebidas,Mayorista Este,175,5,ACTIVO,105
+A028,Peras,Panaderia,Cooperativa Oeste,200,12,ACTIVO,120
+A029,Tomates,Limpieza,Proveedor Sur,225,19,ACTIVO,135
+A030,Lechuga,Frutas y Verduras,Distribuidora Norte,250,3,SUSPENDIDO,150
+A031,Arroz,Lacteos,Mayorista Este,275,10,ACTIVO,165
+A032,Fideos,Bebidas,Cooperativa Oeste,100,17,ACTIVO,60
+A033,Aceite de girasol,Panaderia,Proveedor Sur,125,1,ACTIVO,75
+A034,Azucar,Limpieza,Distribuidora Norte,150,8,ACTIVO,90
+A035,Harina,Frutas y Verduras,Mayorista Este,175,15,SUSPENDIDO,105
+A036,Sal fina,Lacteos,Cooperativa Oeste,200,22,ACTIVO,120
+A037,Cafe molido,Bebidas,Proveedor Sur,225,6,ACTIVO,135
+A038,Te verde,Panaderia,Distribuidora Norte,250,13,ACTIVO,150
+A039,Mate cocido,Limpieza,Mayorista Este,275,20,ACTIVO,165
+A040,Chocolate en polvo,Frutas y Verduras,Cooperativa Oeste,100,4,SUSPENDIDO,60
+A041,Cereales,Lacteos,Proveedor Sur,125,11,ACTIVO,75
+A042,Miel,Bebidas,Distribuidora Norte,150,18,ACTIVO,90
+A043,Huevos docena,Panaderia,Mayorista Este,175,2,ACTIVO,105
+A044,Pollo entero,Limpieza,Cooperativa Oeste,200,9,ACTIVO,120
+A045,Carne picada,Frutas y Verduras,Proveedor Sur,225,16,SUSPENDIDO,135
+A046,Papas,Lacteos,Distribuidora Norte,250,0,ACTIVO,150
+A047,Cebollas,Bebidas,Mayorista Este,275,7,ACTIVO,165
+A048,Zanahorias,Panaderia,Cooperativa Oeste,100,14,ACTIVO,60
+A049,Mermelada,Limpieza,Proveedor Sur,125,21,ACTIVO,75
+A050,Aceitunas,Frutas y Verduras,Distribuidora Norte,150,5,SUSPENDIDO,90
+A051,Almendras,Lacteos,Mayorista Este,175,12,ACTIVO,105
+A052,Pasas de uva,Bebidas,Cooperativa Oeste,200,19,ACTIVO,120
+A053,Vinos,Panaderia,Proveedor Sur,225,3,ACTIVO,135
+A054,Cerveza rubia,Limpieza,Distribuidora Norte,250,10,ACTIVO,150
+A055,Fideo seco,Frutas y Verduras,Mayorista Este,0,-5,CANCELADO,999
+A056,Lentejas,Lacteos,Cooperativa Oeste,0,-5,CANCELADO,999
+A057,Garbanzos,Bebidas,Proveedor Sur,0,-5,CANCELADO,999
+A058,Porotos,Panaderia,Distribuidora Norte,0,-5,CANCELADO,999
+A059,Semillas de girasol,Limpieza,Mayorista Este,0,-5,CANCELADO,999
+A060,Avena,Frutas y Verduras,Cooperativa Oeste,100,5,ERRONEO,60
